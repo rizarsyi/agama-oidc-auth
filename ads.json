@@ -18,20 +18,5 @@
                 "oidc": "OIDC configurations in the form of a dictionary, see README"
             }
         }
-    },
-    "test": {
-        "projectName": "test",
-        "description": "Lorem ipsum dolor sit ametcdsadsd",
-        "type": "community",
-        "author": "rizarsyi",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/rizarsyi/agama-oidc-auth",
-        "githubUri": "https://github.com/rizarsyi/agama-oidc-auth",
-        "license": "MIT",
-        "lastUpdated": "1692933362337",
-        "tags": [
-            "openid-connect"
-        ],
-        "noDirectLaunch": []
     }
 }
