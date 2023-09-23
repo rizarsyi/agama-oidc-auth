@@ -15,20 +15,5 @@
         "configs": {
             "jgomer2001.io.jans.inbound.oidc_code": {}
         }
-    },
-    "test": {
-        "projectName": "test",
-        "description": "dasdasdsad",
-        "type": "community",
-        "author": "rizarsyi",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/rizarsyi/agama-oidc-auth",
-        "githubUri": "https://github.com/rizarsyi/agama-oidc-auth",
-        "license": "MIT",
-        "lastUpdated": "1692950274251",
-        "tags": [
-            "openid-connect"
-        ],
-        "noDirectLaunch": []
     }
 }
