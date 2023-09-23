@@ -15,5 +15,20 @@
         "configs": {
             "jgomer2001.io.jans.inbound.oidc_code": {}
         }
+    },
+    "hello": {
+        "projectName": "hello",
+        "description": "Lorem ipsum dolor sit amet",
+        "type": "community",
+        "author": "rizarsyi",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/rizarsyi/agama-oidc-auth",
+        "githubUri": "https://github.com/rizarsyi/agama-oidc-auth",
+        "license": "MIT",
+        "lastUpdated": "1695469636770",
+        "tags": [
+            "jans"
+        ],
+        "noDirectLaunch": []
     }
 }
